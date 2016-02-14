@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
-        <h2 style="height: 40px;"><%: Title %>.</h2>
+        <h2 style="height: 12px;"><%: Title %>.</h2>
     </div>
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
